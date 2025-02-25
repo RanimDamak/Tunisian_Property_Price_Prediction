@@ -66,6 +66,5 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 - Feature importance analysis can be performed to understand key predictors of property prices.
 
 ## Future Improvements
-- Experiment with other regression models like `XGBoost` and `Gradient Boosting`.
 - Fine-tune hyperparameters further for better performance.
 - Explore more feature engineering techniques.
